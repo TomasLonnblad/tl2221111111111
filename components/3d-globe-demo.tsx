@@ -29,7 +29,7 @@ const sampleMarkers: GlobeMarker[] = [
   {
     lat: 48.8566,
     lng: 2.3522,
-    src: "https://tomaslonnblad.github.io/2.jpg",
+    src: "https://tomaslonnblad.github.io/mountains.jpg",
     label: "Paris",
   },
   {
