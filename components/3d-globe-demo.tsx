@@ -5,7 +5,7 @@ const sampleMarkers: GlobeMarker[] = [
   {
     lat: 40.7128,
     lng: -74.006,
-    src: "https://assets.aceternity.com/avatars/1.webp",
+    //src: "https://assets.aceternity.com/avatars/1.webp",
     label: "New York",
   },
   {
