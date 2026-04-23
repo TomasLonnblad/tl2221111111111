@@ -27,8 +27,8 @@ const sampleMarkers: GlobeMarker[] = [
     label: "Sydney",
   },
   {
-    lat: 48.8566,
-    lng: 2.3522,
+    lat 57.6969943,
+    lng 11.9865,
     src: "https://tomaslonnblad.github.io/mountains.jpg",
     label: "Paris",
   },
