@@ -3,34 +3,33 @@ import { Globe3D, GlobeMarker } from "@/components/ui/3d-globe";
 
 const sampleMarkers: GlobeMarker[] = [
   {
-    lat: 40.7128,
-    lng: -74.006,
+  //  lat: 40.7128,
+   // lng: -74.006,
    // src: "https://assets.aceternity.com/avatars/1.webp",
-    label: "New York",
+   // label: "New York",
   },
   {
-    lat: 51.5074,
-    lng: -0.1278,
+    //lat: 51.5074,
+   // lng: -0.1278,
    // src: "https://assets.aceternity.com/avatars/2.webp",
-    label: "London",
+   // label: "London",
   },
   {
-    lat: 35.6762,
-    lng: 139.6503,
+   // lat: 35.6762,  lng: 139.6503,
    // src: "https://assets.aceternity.com/avatars/3.webp",
-    label: "Tokyo",
+   // label: "Tokyo",
   },
   {
-    lat: -33.8688,
-    lng: 151.2093,
-    src: "https://assets.aceternity.com/avatars/4.webp",
-    label: "Sydney",
+   // lat: -33.8688,
+   // lng: 151.2093,
+   // src: "https://assets.aceternity.com/avatars/4.webp",
+   // label: "Sydney",
   },
   {
     lat: 57.6969,
     lng: 11.9865,
-  //  src: "https://tomaslonnblad.github.io/mountains.jpg",
-    label: "Paris",
+  src: "https://tomaslonnblad.github.io/mountains.jpg",
+    label: "Göteborg",
   },
   {
     lat: 28.6139,
