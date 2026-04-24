@@ -3,8 +3,6 @@ import { Globe3D, GlobeMarker } from "@/components/ui/3d-globe";
 
 const sampleMarkers: GlobeMarker[] = [
 
- {
-    },
    {
   },
 
