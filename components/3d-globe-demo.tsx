@@ -5,9 +5,9 @@ const sampleMarkers: GlobeMarker[] = [
 
   {
    lat: 57.6969,
-    lng: 11.9865,
-  src: "https://tomaslonnblad.github.io/mountains.jpg",
-    label: "Göteborg",
+   lng: 11.9865,
+   src: "https://tomaslonnblad.github.io/mountains.jpg",
+   label: "Göteborg",
   },
 
 ];
