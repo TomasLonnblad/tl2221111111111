@@ -3,6 +3,18 @@ import { Globe3D, GlobeMarker } from "@/components/ui/3d-globe";
 
 const sampleMarkers: GlobeMarker[] = [
 
+ {
+    },
+   {
+  },
+
+ {
+    },
+   {
+  },
+
+  
+  
   {
    lat: 57.6969,
    lng: 11.9865,
