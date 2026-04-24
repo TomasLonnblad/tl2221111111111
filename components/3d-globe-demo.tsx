@@ -20,6 +20,22 @@ const sampleMarkers: GlobeMarker[] = [
    label: "Göteborg",
   },
 
+   {
+  },
+
+ {
+    },
+   {
+  },
+   {
+  },
+
+ {
+    },
+   {
+  },
+      {
+  },
 ];
 
 export default function Globe3DDemo() {
